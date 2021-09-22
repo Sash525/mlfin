@@ -139,3 +139,4 @@ cython_debug/
 
 # My files
 todo.md
+/data/data_in/
