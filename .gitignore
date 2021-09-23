@@ -140,3 +140,4 @@ cython_debug/
 # My files
 todo.md
 /data/data_in/
+/notebooks/other_test/
